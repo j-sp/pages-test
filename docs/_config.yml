@@ -23,7 +23,7 @@ baseurl: "/pages-test" # the subpath of your site, e.g. /blog
 url: "https://j-sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+google_analytics: G-JMPWX6MQMN
 # Build settings
 
 markdown: kramdown
@@ -36,8 +36,6 @@ header_pages:
 
 plugins:
   - jekyll-feed
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
