@@ -36,7 +36,6 @@ header_pages:
 
 plugins:
   - jekyll-feed
-  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

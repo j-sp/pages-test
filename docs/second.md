@@ -2,8 +2,10 @@
 layout: page
 title: Second page
 permalink: /second/
-toc: true
 ---
+
+* list
+{:toc}
 
 Blah blah. Link to [about page](about.md).
 
