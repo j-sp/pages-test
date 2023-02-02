@@ -4,17 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Example of an image:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![dummy](assets/images/dummy.png)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The same image but using an explicit size of 360x360 pixels:
 
-
-[jekyll-organization]: https://github.com/jekyll
+![dummy2](assets/images/dummy.png){:height="360px" width="360px" style="display:block; margin-left:auto; margin-right:auto"}
 
 Link to [second page](second.md).
